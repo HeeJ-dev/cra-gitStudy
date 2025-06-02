@@ -17,6 +17,14 @@ br쳐주면됨
 - [X] 히히히
 - [ ] 호호호
 
+```java
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Test");
+    }
+}
+```
+
 ![image](https://github.com/user-attachments/assets/95515582-1261-433a-81af-209667c095e7)
 
 
